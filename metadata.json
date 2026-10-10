@@ -1,0 +1,6 @@
+{
+  "name": "SawitTrack - Monitoring Panen & Timbangan Sawit",
+  "description": "Sistem monitoring panen kelapa sawit terpadu dari kebun ke penjualan dengan pelacakan lokasi armada real-time dan manajemen data timbangan PKS.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
